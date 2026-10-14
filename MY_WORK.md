@@ -19,7 +19,7 @@
 
 ## 🎥 Video Link
 
-**Video Link**: To be added after recording
+**Video Link**: https://drive.google.com/file/d/1KnhuXnFvvrafesBLkQ2oEy89tV_7lcHo/view?usp=drivesdk
 
 
 ---
